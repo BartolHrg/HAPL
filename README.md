@@ -1,2 +1,2 @@
 # HAPL
-Highly Adjustable Programing Language
+Highly Adjustable Programming Language
